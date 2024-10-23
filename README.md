@@ -1,2 +1,2 @@
 # WordpressCustom
-Riscontrando problemi con la visualizzazione del sito wordpress custom caricato su altervista al momento mi è impossibile caricarlo. Risolverò nel più breve tempo possibile.
+Essendo il backup troppo pesante per GitHub ho momentaneamente caricato il mio sito web su altervsita. https://www.linkedin.com/in/andrea-boccaletto-b30aa9158/
